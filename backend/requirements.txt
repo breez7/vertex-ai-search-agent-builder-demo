@@ -1,5 +1,6 @@
 google-cloud-discoveryengine
 google-cloud-storage
 fastapi
+fastapi[standard]
 coloredlogs
 python-multipart
